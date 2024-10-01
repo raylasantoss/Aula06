@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.centralizado {
+    background-color: rgb(255, 255, 255);
+        border: 1px solid #ff0000;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        display: flex;
+        width: 300px;
+        height: 300px;
+    }
+h2{
+    background-color: #ff0000;
+    height: 5vh;
+}
+
+#mensagem{
+    background-color: blue;
+}
+
+
